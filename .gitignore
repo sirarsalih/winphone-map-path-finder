@@ -1,0 +1,4 @@
+*.suo
+*.DotSettings
+/BuildProcessTemplates
+/ASPC2014.Windows.Phone.App/*.user

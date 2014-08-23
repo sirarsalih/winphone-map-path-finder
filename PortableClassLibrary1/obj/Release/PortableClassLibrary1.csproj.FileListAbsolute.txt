@@ -1,0 +1,9 @@
+C:\Users\Sirar\Documents\Visual Studio 2013\Projects\Windows.Phone.Path.Finder\PortableClassLibrary1\bin\Release\PortableClassLibrary1.dll
+C:\Users\Sirar\Documents\Visual Studio 2013\Projects\Windows.Phone.Path.Finder\PortableClassLibrary1\bin\Release\PortableClassLibrary1.pdb
+C:\Users\Sirar\Documents\Visual Studio 2013\Projects\Windows.Phone.Path.Finder\PortableClassLibrary1\bin\Release\Cirrious.CrossCore.dll
+C:\Users\Sirar\Documents\Visual Studio 2013\Projects\Windows.Phone.Path.Finder\PortableClassLibrary1\bin\Release\Cirrious.MvvmCross.dll
+C:\Users\Sirar\Documents\Visual Studio 2013\Projects\Windows.Phone.Path.Finder\PortableClassLibrary1\bin\Release\Cirrious.MvvmCross.Localization.dll
+C:\Users\Sirar\Documents\Visual Studio 2013\Projects\Windows.Phone.Path.Finder\PortableClassLibrary1\bin\Release\Newtonsoft.Json.dll
+C:\Users\Sirar\Documents\Visual Studio 2013\Projects\Windows.Phone.Path.Finder\PortableClassLibrary1\bin\Release\Newtonsoft.Json.xml
+C:\Users\Sirar\Documents\Visual Studio 2013\Projects\Windows.Phone.Path.Finder\PortableClassLibrary1\obj\Release\PortableClassLibrary1.dll
+C:\Users\Sirar\Documents\Visual Studio 2013\Projects\Windows.Phone.Path.Finder\PortableClassLibrary1\obj\Release\PortableClassLibrary1.pdb
